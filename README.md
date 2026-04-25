@@ -1,7 +1,31 @@
 ##  👨‍💻 Abdullahi Asunmoh
        
-<!
-**ASUMS-CloudSec/ASUMS-Cloudsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cloud Security Engineer | IT Support Engineer | AWS & Microsoft 365 | Lagos, Nigeria
+
+I am an IT Support Engineer transitioning into cloud security, with hands-on experience in endpoint security, system administration, and security-focused projects. I focus on building practical solutions that simulate real-world security challenges across cloud environments, user awareness, and threat detection.
+My work demonstrates the ability to secure systems, monitor activity, and design security-driven solutions using both blue team and controlled red team approaches.
+#
+
+
+
+
+
+
+
+# 📫 Contact
+
+ LinkedIn: https://linkedin.com/in/Abdullahi-Asunmoh
+ 
+ Email: asunmohhh@gmail.com
+  
+
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
