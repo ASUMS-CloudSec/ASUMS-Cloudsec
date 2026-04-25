@@ -2,14 +2,19 @@
        
 🔐 Cloud Security Engineer | IT Support Engineer | AWS & Microsoft 365 | Lagos, Nigeria
 
-I am an IT Support Engineer transitioning into cloud security, with hands-on experience in endpoint security, system administration, and security-focused projects. I focus on building practical solutions that simulate real-world security challenges across cloud environments, user awareness, and threat detection.
-My work demonstrates the ability to secure systems, monitor activity, and design security-driven solutions using both blue team and controlled red team approaches.
+I secure, troubleshoot, and solve complex IT challenges across enterprise environments, with 4+ years in IT operations and a focus on Cloud Security. Skilled in Microsoft 365, endpoint management, infrastructure monitoring, incident response, and SIEM/EDR tools.
+Actively building real-world cloud security projects and practical solutions that simulate security challenges across cloud environments, user awareness, and threat detection to continuously strengthen my cloud security expertise.
 #
 
 
 
 
+# 🏆 Certifications
+ CompTIA Security+ 
+ 
+ eLearnSecurity Junior Penetration Tester (eJPT) 
 
+ AWS Certified Cloud Practitioner — In Progress
 
 
 # 📫 Contact
