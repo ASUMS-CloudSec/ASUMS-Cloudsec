@@ -6,6 +6,15 @@ I secure, troubleshoot, and solve complex IT challenges across enterprise enviro
 Actively building real-world cloud security projects and practical solutions that simulate security challenges across cloud environments, user awareness, and threat detection to continuously strengthen my cloud security expertise.
 #
 
+# 🎯 Career Focus
+Cloud Security Engineering
+
+SOC / Threat Detection & Incident Response
+
+Azure Security & Identity Protection
+
+Security Automation & Monitoring
+
 
 
 
@@ -32,14 +41,3 @@ Actively building real-world cloud security projects and practical solutions tha
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
