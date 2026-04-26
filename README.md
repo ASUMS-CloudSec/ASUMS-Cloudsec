@@ -2,7 +2,7 @@
        
 🔐 Cloud Security Engineer | IT Support Engineer | AWS & Microsoft 365 | Lagos, Nigeria
 
-I secure, troubleshoot, and solve complex IT challenges across enterprise environments, with 4+ years in IT operations and a focus on Cloud Security. Skilled in Microsoft 365, endpoint management, infrastructure monitoring, incident response, and SIEM/EDR tools.
+I secure, troubleshoot, and solve complex IT challenges across enterprise environments, with 5+ years in IT operations and a focus on Cloud Security. Skilled in Microsoft 365, endpoint management, infrastructure monitoring, incident response, and SIEM/EDR tools.
 Actively building real-world cloud security projects and practical solutions that simulate security challenges across cloud environments, user awareness, and threat detection to continuously strengthen my cloud security expertise.
 #
 
